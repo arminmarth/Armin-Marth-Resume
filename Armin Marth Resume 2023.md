@@ -11,7 +11,7 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 
 ## Key Skills
 
-- **System Administration and Troubleshooting:** Demonstrated through various roles such as IT Support Consultant at Absolute IT Consulting and IT Support at APCD / PLOY. 
+- **System Administration and Troubleshooting:** Demonstrated through various roles such as IT Support Consultant at Absolute IT Consulting and IT Support at APCD / PLOY.
 - **Project Management:** Experience in coordinating projects and tasks in roles such as Project Officer at ASHM and Project Coordinator at CNS Health.
 - **Customer Support:** Offered exceptional customer service and technical assistance in roles like Customer Services Officer at Mednetwork Systems and Admin Support at Combined Strata.
 - **Testing & Quality Assurance:** Proven skills as a QA Test Analyst/Graduate Model Development Engineer at Medical Director.
@@ -108,7 +108,6 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Organised events, managed administration/funding, and increased membership for a registered non-profit community gaming group for LGBTI gamers.
 - Moderated Facebook group/page, growing membership base to 2,500.
 - Negotiated agreements with venues for gaming events and consoles for patron use.
-
 
 ## Education
 
