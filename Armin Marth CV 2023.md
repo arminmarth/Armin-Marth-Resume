@@ -2,15 +2,16 @@
 # Armin Marth
 
 **Location:** Parramatta, Sydney NSW 2150, Australia  
-**Email:** arminmarth@gmail.com  
+**Email:** <arminmarth@gmail.com>  
 **Phone:** 0415 639 091
 
 ## Profile Summary
+
 A diligent and detail-oriented IT professional with over 10 years of diverse experience. Proficient in identifying, isolating, and resolving information system-related problems. Extensive knowledge of multiple platforms, servers, and programs.
 
 ## Key Skills
 
-- **System Administration and Troubleshooting:** Demonstrated through various roles such as IT Support Consultant at Absolute IT Consulting and IT Support at APCD / PLOY. 
+- **System Administration and Troubleshooting:** Demonstrated through various roles such as IT Support Consultant at Absolute IT Consulting and IT Support at APCD / PLOY.
 - **Project Management:** Experience in coordinating projects and tasks in roles such as Project Officer at ASHM and Project Coordinator at CNS Health.
 - **Customer Support:** Offered exceptional customer service and technical assistance in roles like Customer Services Officer at Mednetwork Systems and Admin Support at Combined Strata.
 - **Testing & Quality Assurance:** Proven skills as a QA Test Analyst/Graduate Model Development Engineer at Medical Director.
@@ -31,6 +32,7 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 ## Professional Experience
 
 ### Combined Strata, Sydney, NSW
+
 **Admin Support**, 2020 – 2022
 
 - Managed incoming queries and performed routine tasks.
@@ -40,6 +42,7 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Organised mass market mailing to provide notifications of updates of legislation and compliance.
 
 ### Absolute IT Consulting, Sydney, NSW
+
 **IT Support Consultant**, 2019 – 2020
 
 - Provided personalised IT support to small businesses.
@@ -47,6 +50,7 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Set up backup solutions using local NAS and cloud infrastructure.
 
 ### ASHM (Non-profit organization for health professionals), Sydney, NSW
+
 **Project Officer – Executive support**, 2017 – 2018
 
 - Provided support to users on the Moodle-based e-Learning platform.
@@ -55,6 +59,7 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Conducted routine enquiries on CRM, and assisted in building dashboards.
 
 ### APCD / PLOY, Sydney, NSW
+
 **IT Support**, 2015 – 2016
 
 - Installed new PCs/hardware, prepared backups, and restored user data.
@@ -64,6 +69,7 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Managed a team of technicians, allocating tasks based on location and skills.
 
 ### Medical Director (Health Communication Network) Sydney, NSW
+
 **QA Test Analyst/Graduate Model Development Engineer**, 2010 – 2015
 
 - Conducted comprehensive testing for a clinical management software system.
@@ -72,6 +78,7 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Led various projects, including providing estimates, plans, budgets, reports, and metrics.
 
 ### The Cloud Group, Sydney, NSW
+
 **Project Development/Customer Support**, 2010
 
 - Assessed and resolved business problems with hosted and SaaS software solutions.
@@ -79,6 +86,7 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Migrated clients from desktop CRM, collaboration tools, and email to cloud-hosted technologies.
 
 ### CNS Health Pty Ltd, Sydney, NSW
+
 **Project Coordinator**, 2008 – 2010
 
 - Established and managed e-messaging systems for general practitioners and specialists.
@@ -86,6 +94,7 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Managed client/server databases; monitored, administered, and maintained information.
 
 ### Mednetwork Systems Pty Ltd / Medilink Solutions
+
 **Customer Services Officer**, 2007 – 2010
 
 - Provided exceptional customer service for medical practice management software.
@@ -93,16 +102,17 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Managed client moves from legacy medical systems to SQL-based solutions.
 
 ## Voluntary Experience
+
 **Lead Organiser and Administrator**, Sydney Gaymers, Sydney, NSW, 2012 – 2020
 
 - Organised events, managed administration/funding, and increased membership for a registered non-profit community gaming group for LGBTI gamers.
 - Moderated Facebook group/page, growing membership base to 2,500.
 - Negotiated agreements with venues for gaming events and consoles for patron use.
 
-
 ## Education
 
 ### TAFE NSW
+
 **Certificate IV in Information Technology**, 2023 (Expected Completion: December)
 
 - Configuring and managing virtual machines and servers, optimizing ICT system performance.
@@ -137,4 +147,5 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Linux Foundation Essentials in Linux System Administration
 
 ## References
+
 Available upon request
