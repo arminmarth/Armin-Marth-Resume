@@ -1,9 +1,7 @@
-
 # Armin Marth
-
-**Email:** <arminmarth@gmail.com>  
+**Email:** <arminmarth@gmail.com>
 **Phone:** 0415 639 091
-**Location:** Parramatta, Sydney NSW 2150, Australia  
+**Location:** Edmondson Park, Sydney NSW 2174, Australia
 
 ## Profile Summary
 
@@ -113,7 +111,16 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 
 ### TAFE NSW
 
-**Certificate IV in Information Technology**, 2023 (Expected Completion: June)
+**Certificate IV in Cyber Security**, 2023
+
+- Collaborating effectively in the ICT industry, analyzing and presenting research information.
+- Developing and carrying out a cybersecurity industry project, applying cybersecurity legislation, privacy and ethical practices.
+- Recognizing the need for cybersecurity in an organisation, utilising basic network concepts and protocols required in cybersecurity, testing concepts and procedures for cybersecurity.
+- Automating processes, configuring and securing networked end points, performing basic cybersecurity data analysis.
+- Implementing and managing the security infrastructure for an organisation, evaluating and testing an incident response plan for an enterprise.
+- Exposing website security vulnerabilities, testing concepts and procedures for cyber exploitation.
+
+**Certificate IV in Information Technology**, 2023
 
 - Configuring and managing virtual machines and servers, optimizing ICT system performance.
 - Supporting ICT system software, installing and testing IP networks.
@@ -122,20 +129,6 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Designing website layouts, confirming website accessibility.
 - Applying advanced critical thinking to work processes, contributing to cybersecurity risk management, identifying and evaluating emerging technologies.
 - Working collaboratively in the ICT industry, complying with IP, ethics and privacy policies in ICT environments, resolving client ICT problems.
-
-**Certificate IV in Project Management Practice**, 2023 (Expected Completion: December)
-
-- Applying project management techniques including scope, time, quality, cost, human resources, risk, procurement, information and communication.
-- Implementing and monitoring environmentally sustainable work practices.
-
-**Certificate IV in Cyber Security**, 2023 (Expected Completion: December)
-
-- Collaborating effectively in the ICT industry, analyzing and presenting research information.
-- Developing and carrying out a cybersecurity industry project, applying cybersecurity legislation, privacy and ethical practices.
-- Recognizing the need for cybersecurity in an organisation, utilising basic network concepts and protocols required in cybersecurity, testing concepts and procedures for cybersecurity.
-- Automating processes, configuring and securing networked end points, performing basic cybersecurity data analysis.
-- Implementing and managing the security infrastructure for an organisation, evaluating and testing an incident response plan for an enterprise.
-- Exposing website security vulnerabilities, testing concepts and procedures for cyber exploitation.
 
 ## Certifications and Trainings
 

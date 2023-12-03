@@ -1,8 +1,7 @@
-
 # Armin Marth
 
-**Location:** Parramatta, Sydney NSW 2150, Australia  
-**Email:** <arminmarth@gmail.com>  
+**Location:** Edmondson Park, Sydney NSW 2174, Australia
+**Email:** <arminmarth@gmail.com>
 **Phone:** 0415 639 091
 
 ## Personal Profile
@@ -76,9 +75,8 @@ An experienced professional with a strong background in customer service, team c
 
 ### TAFE NSW
 
-**Certificate IV in Information Technology**, 2023 (Expected Completion: June)
-**Certificate IV in Project Management Practice**, 2023 (Expected Completion: December)
-**Certificate IV in Cyber Security**, 2023 (Expected Completion: December)
+**Certificate IV in Cyber Security**, 2023
+**Certificate IV in Information Technology**, 2023
 
 ## Certifications and Trainings
 
