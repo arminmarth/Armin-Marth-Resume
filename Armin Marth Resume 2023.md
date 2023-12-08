@@ -1,7 +1,9 @@
 # Armin Marth
 
 **Email:** <arminmarth@gmail.com>
+
 **Phone:** 0415 639 091
+
 **Location:** Edmondson Park, Sydney NSW 2174, Australia
 
 ## Profile Summary
@@ -137,8 +139,12 @@ A diligent and detail-oriented IT professional with over 10 years of diverse exp
 - Microsoft Certified Professional in Windows 2003 Installing, Administering and Configuring Windows
 - HDI Help Desk Analyst
 - ISTQB Foundation in Software Testing
-- CompTIA Linux+
-- Linux Foundation Essentials in Linux System Administration
+- LinuxFoundationX: Introduction to Linux (LFS101x)
+- ISC2 CC - Certified in Cybersecurity
+- Microsoft 365 Certified: Fundamentals (MS-900)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
 
 ## References
 
