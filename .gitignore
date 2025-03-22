@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
