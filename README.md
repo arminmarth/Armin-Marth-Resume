@@ -1,80 +1,39 @@
-# Armin Marth Resume
+# Armin Marth - Professional Profile
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-March%202025-blue)](https://github.com/arminmarth/Armin-Marth-Resume)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+This repository contains my professional resume, profile documents, and career information organized by year.
 
-This repository contains various versions of Armin Marth's professional resume in multiple formats, organized by year.
+## Repository Structure
 
-![Resume Preview](https://via.placeholder.com/800x400?text=Resume+Preview)
+- **2022**: Resume and professional documents from 2022
+- **2023**: Resume and professional documents from 2023
+- **2024**: Resume and professional documents from 2024
+- **2025**: Current comprehensive professional profile and resume
 
-## Repository Contents
+## Latest Documents
 
-The repository is organized by year and purpose:
+The most up-to-date version of my professional profile can be found in the 2025 folder.
 
-### 2024 Resumes
-- **Bar Resume (2024)**
-  - [Markdown Version](./2024/Armin%20Marth%20Resume%202024%20(bar).md)
-  - [Word Document](./2024/Armin%20Marth%20Resume%202024%20(bar).docx)
-  - [PDF Version](./2024/Armin%20Marth%20Resume%202024%20(bar).pdf)
+## Qualifications
 
-### 2023 Resumes
-- **Standard Resume (2023)**
-  - [Markdown Version](./2023/Armin%20Marth%20Resume%202023.md)
-  - [Word Document](./2023/Armin%20Marth%20Resume%202023.docx)
-  - [PDF Version](./2023/Armin%20Marth%20Resume%202023.pdf)
+- Advanced Diploma of Information Technology (Cyber Security) - TAFE NSW (2024)
+- Diploma of Information Technology (Advanced Networking, Cloud Architecture) - TAFE NSW (2024)
+- Certificate IV in Cyber Security - Liverpool College (2023)
+- Certificate IV in Project Management Practice - TAFE NSW (2021)
+- Certificate IV in Information Technology - TAFE NSW (2020)
 
-- **General Resume (2023)**
-  - [Markdown Version](./2023/Armin%20Marth%20Resume%202023%20(general).md)
-  - [Word Document](./2023/Armin%20Marth%20Resume%202023%20(general).docx)
-  - [PDF Version](./2023/Armin%20Marth%20Resume%202023%20(general).pdf)
+## Certifications
 
-### 2022 Resumes
-- **Standard Resume (2022)**
-  - [Markdown Version](./2022/Armin%20Marth%20Resume%202022.md)
-  - [Word Document](./2022/Armin%20Marth%20Resume%202022.docx)
-  - [PDF Version](./2022/Armin%20Marth%20resume%202022.pdf)
+- AWS Academy Graduate - AWS Academy Cloud Architecting (2024)
+- Microsoft 365 Certified: Fundamentals (MS-900)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- ISTQB Certified Tester - Foundation Level 4.0
+- CompTIA A+ Certificate
+- Microsoft Certified Professional (MCP) - Windows Server 2003
 
-### Web Version
-- [HTML Resume](./index.html) - A web-friendly version of the resume
+## Contact Information
 
-## File Formats
-
-- **Markdown (.md)**: Plain text format with simple formatting syntax, ideal for version control and quick editing
-- **Word (.docx)**: Microsoft Word format, best for detailed formatting and printing
-- **PDF (.pdf)**: Portable Document Format, best for sharing and maintaining consistent appearance across devices
-- **HTML (.html)**: Web version of the resume, viewable in any browser
-
-## Usage
-
-1. **View Online**: Click on any of the links above to view the resume directly in GitHub
-2. **Download**: Use the "Download" button on the file page to save a local copy
-3. **Edit**: 
-   - For .md files: Use any text editor or markdown editor
-   - For .docx files: Use Microsoft Word or compatible software
-   - PDF files are not directly editable
-   - HTML file can be edited with any text editor or HTML editor
-
-## Updating the Resume
-
-When updating your resume:
-
-1. Create a new folder for the year if needed
-2. Save in all three formats (MD, DOCX, PDF)
-3. Use consistent naming conventions
-4. Update this README.md to reflect the new files
-
-## Best Practices
-
-- Keep file names consistent and descriptive
-- Include the year and purpose in the filename
-- Maintain all three formats for maximum compatibility
-- Archive older versions rather than deleting them
-- Redact personal contact information in public repositories
-
-## Contributing
-
-Contributions to improve the structure, organization, or templates are welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Email: arminmarth@gmail.com
+- Phone: 0415 639 091
+- Location: Sydney, NSW, Australia
