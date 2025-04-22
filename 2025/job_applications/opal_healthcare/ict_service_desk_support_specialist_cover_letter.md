@@ -4,7 +4,7 @@ Edmondson Park, Sydney NSW 2174
 arminmarth@gmail.com
 linkedin.com/in/armin-marth
 
-[Current Date]
+22 April 2025
 
 Hiring Manager
 Opal HealthCare
@@ -17,6 +17,8 @@ RE: Application for ICT Service Desk Support Specialist Position
 I am writing to express my interest in the ICT Service Desk Support Specialist position at Opal HealthCare. With my extensive experience in healthcare IT support and strong technical background, I am confident in my ability to provide exceptional service desk support for your organisation.
 
 My career in healthcare IT began at Mednetwork Systems, where I worked on a busy helpdesk supporting medical practice management software. In this role, I remotely diagnosed and solved a wide range of issues including software unfamiliarity, backend database corruption, and mass outages. I managed a constant stream of phone calls and support tickets, consistently maintaining a 92% first-call resolution rate while handling over 40 calls daily. By implementing improved troubleshooting procedures, I helped reduce average resolution time from 4 hours to 2.5 hours, significantly improving client satisfaction.
+
+My experience at PLOY included working as a contractor at a hospital IT help desk, where I logged calls, troubleshot connectivity issues with doctors' and nurses' workstations, performed user provisioning, and managed ticket escalation. I also conducted secure data wipes of laptops to be decommissioned, ensuring compliance with healthcare data security requirements. Additionally, I was deployed to a dozen aged care facilities to identify and map networking data points used by nurses' stations and admin staff, followed by deploying Wyse thin client terminals, configuring network boot, and educating users on proper use.
 
 At Medical Director, I further developed my healthcare IT expertise while supporting clinical management software. This experience gave me valuable insights into healthcare workflows, clinical applications, and the critical nature of healthcare IT systems. I gained extensive knowledge of practice management systems and secure messaging in healthcare, including HL7 standards, which I understand are relevant to your operations.
 
