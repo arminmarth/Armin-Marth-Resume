@@ -62,13 +62,33 @@ Experienced ICT Support Specialist with extensive healthcare and aged care IT ba
 - Conducted end-user training sessions on new systems and applications, improving user adoption and reducing support calls
 - Collaborated with third-party vendors to resolve complex technical issues and coordinate service delivery
 
+### Dandana Reception, Liverpool, NSW
+**Bar Staff** | 2023
+- Managed point-of-sale systems and troubleshot technical issues during service
+- Maintained accurate digital inventory records using venue management software
+
+### Combined Strata, Sydney, NSW
+**Admin Support** | 2020 – 2022
+- Provided first-level technical support for staff, resolving hardware and software issues promptly
+- Maintained and troubleshot office equipment including computers, printers, and network devices
+- Trained staff on productivity software and implemented efficiency-enhancing technical solutions
+- Managed IT vendor relationships and coordinated technical service delivery
+- Implemented backup solutions using local NAS and cloud infrastructure to ensure data protection
+
+### ASHM (Non-profit organisation for health professionals), Sydney, NSW
+**Project Officer – Executive Support** | 2017 – 2018
+- Provided technical support for the Moodle-based e-Learning platform, ensuring secure access and data protection
+- Implemented security measures for sensitive health professional data in compliance with industry regulations
+- Supported secure data management practices and maintained data integrity across systems
+- Assisted in developing security protocols for handling confidential committee communications
+- Collaborated with IT teams to address security vulnerabilities in organisational systems
+
 ### APCD / PLOY, Sydney, NSW
-**IT Support Specialist** | 2015 – 2022
-- **Hospital IT Help Desk (2018-2022):** Worked as a contractor at a hospital IT help desk, logging calls and troubleshooting connectivity issues for doctors and nurses workstations
-- **Hospital IT Support (2018-2022):** Performed user provisioning, logged and escalated tickets according to priority, and conducted secure data wipes of laptops to be decommissioned
-- **Aged Care Facilities Specialist (2016-2018):** Deployed to a dozen aged care facilities to identify and map out networking data points used by nurses stations and admin staff throughout the buildings
-- **Thin Client Deployment (2016-2018):** Deployed Wyse thin client terminals to identified locations, configured network boot, tested functionality, and educated users on proper use
-- **Healthcare IT Support (2015-2016):** Provided comprehensive technical support for healthcare clients, resolving hardware and software issues
+**IT Support** | 2015 – 2016
+- **Hospital IT Help Desk:** Worked as a contractor at a hospital IT help desk, logging calls and troubleshooting connectivity issues for doctors and nurses workstations
+- **Hospital IT Support:** Performed user provisioning, logged and escalated tickets according to priority, and conducted secure data wipes of laptops to be decommissioned
+- **Aged Care Facilities Specialist:** Deployed to a dozen aged care facilities to identify and map out networking data points used by nurses stations and admin staff throughout the buildings
+- **Thin Client Deployment:** Deployed Wyse thin client terminals to identified locations, configured network boot, tested functionality, and educated users on proper use
 - Installed and configured new PCs and hardware for multiple client sites, ensuring proper setup and functionality
 - Prepared and executed backup procedures and restored user data when required
 - Troubleshot Electronic Health Record (EHR) issues and resolved mechanical hardware problems
@@ -93,6 +113,14 @@ Experienced ICT Support Specialist with extensive healthcare and aged care IT ba
 - Provided technical support and training for users transitioning to cloud-based solutions
 - Troubleshot and resolved technical issues with cloud-based applications and services
 
+### CNS Health Pty Ltd, Sydney, NSW
+**Project Coordinator** | 2008 – 2010
+- Established and managed e-messaging systems for healthcare providers, ensuring patient data protection
+- Implemented and maintained security measures for 100+ medical practices
+- Conducted security assessments and recommended improvements to protect sensitive medical information
+- Managed secure client/server databases with appropriate access controls and monitoring
+- Ensured compliance with healthcare data security regulations and standards
+
 ### Mednetwork Systems Pty Ltd / Medilink Solutions
 **Customer Services Officer** | 2007 – 2010
 - Provided first and second-level technical support for medical practice management software, handling 40+ calls daily with 92% first-call resolution rate
@@ -103,6 +131,13 @@ Experienced ICT Support Specialist with extensive healthcare and aged care IT ba
 - Managed client migrations from legacy systems to SQL-based solutions, ensuring minimal disruption to practice operations
 - Implemented scheduled backup solutions that prevented data loss for numerous clients during system failures
 - Developed strong knowledge of healthcare workflows, medical terminology, and practice operations
+
+## VOLUNTEER EXPERIENCE
+**Sydney Gaymers, Sydney, NSW**
+**Lead Organiser and Administrator** | 2012 – 2020
+- Managed IT infrastructure for events, including networking, audio-visual equipment, and gaming systems
+- Developed and maintained the organisation's website and online community platforms
+- Implemented technical solutions for event registration, communication, and member management
 
 ## ADDITIONAL SKILLS
 - Excellent customer service and communication skills
